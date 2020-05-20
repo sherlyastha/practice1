@@ -1,3 +1,8 @@
+Count pairs in array whose sum is divisible by K
+A[] = {2, 2, 1, 7, 5, 3}, K = 4
+ans=5
+
+
 
   def divisibleSumPairs(n, k, ar):
     f=[0]*n
